@@ -6,7 +6,7 @@ RFP detailed here:
 
 ## Proposed Tech and Reasoning
 
-#### Web Components using StencilJS
+### Web Components using StencilJS
 Web Components offer a standard way of creating parts of a website that are compartmentalized away from the actual website's logic and styling. 
 
 Specifically the reason for using Stencil is to provide extras that will:
@@ -17,7 +17,7 @@ Specifically the reason for using Stencil is to provide extras that will:
 - Unit testing is easy to use and comes standard (Uses Jest)
 - While I haven't tried it, some research I've done makes it seem like web components can also be used in a IOS/Android apps. 
 
-#### Styling done with SCSS
+### Styling done with SCSS
 
 SCSS just adds a small extra layer of features to css. Mostly just for import/exports, variables, and the nested dependancies are easier to read.
 
@@ -60,10 +60,13 @@ I've been a professional web developer for about 10 years. Most of the work I've
 
 Github: 
 https://github.com/NewDark90
+
 Website Code:
 https://github.com/NewDark90/zachary-dow.crypto
+
 Website through an unstoppable domain:
 https://zachary-dow.crypto/
+
 Direct link to an IPFS web provider:
 https://bafybeifhbjfcdfpoiehzxvvtnnihfbhg5zn4fesk7riitlmub5ug6fsixq.ipfs.dweb.link/
 
