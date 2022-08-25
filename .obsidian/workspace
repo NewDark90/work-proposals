@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "c57a6841248b5052",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b09dae2fe77ca4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "radicle/drips_embed_widget.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f03bccb7d76adf9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "568d31322bc3c376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e025910353bb46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8102805b40c2b73c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fae73eaeb00e83a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae5d31a14028c6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "173482e0b6ed495b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929fbc562af2f781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "radicle/drips_embed_widget.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030f38ea472513e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radicle/drips_embed_widget.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33d0ca9546c0b37a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "174255d0989ce065",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radicle/drips_embed_widget.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "81b09dae2fe77ca4",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
